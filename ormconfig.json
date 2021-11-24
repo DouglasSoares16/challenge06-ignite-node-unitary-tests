@@ -1,8 +1,7 @@
 {
   "username": "postgres",
-  "password": "docker",
+  "password": "ignitepro",
 
-  "name": "default",
   "type": "postgres",
   "host": "localhost",
   "port": 5432,
